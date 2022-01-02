@@ -1,4 +1,4 @@
-<b>Contains ressources for both the Certificate in Quantitative Finance and Mathematics in genral, in a programming context<b>
+<b>Contains ressources for both the Certificate in Quantitative Finance and Mathematics in general, in a programming context<b>
 
   
 <code>pip install jupyterlab</code> </br>
