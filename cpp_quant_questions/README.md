@@ -2,9 +2,10 @@
 <br>Note: You are looking for the k-th largest element in the sorted order, not the k-th distinct element of the array.
 
 Example 1: <br>
-Input: [3,2,1,5,6,4] and k = 2 <br>
+Input: [3 ,2 , 1 , 5 , 6 ,4] and k = 2 <br>
 Output: 5
 
 <br>
 Example 2: <br>
-Input: [3, 2, 3, 1, 2, 4, 5, 5, 6] and k = 2
+Input: [3, 2, 3, 1, 2, 4, 5, 5, 6] and k = 4
+Output: 4
