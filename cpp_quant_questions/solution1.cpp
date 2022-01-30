@@ -1,3 +1,6 @@
+
+// Compiling: g++ solution.cpp -o test.out
+
 #include <iostream> 
 #include <vector> 
 #include <queue>
