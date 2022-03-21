@@ -7,5 +7,5 @@ Output: 5
 
 <br>
 Example 2: <br>
-Input: [3, 2, 3, 1, 2, 4, 5, 5, 6] and k = 4
+Input: [3, 2, 3, 1, 2, 4, 5, 5, 6] and k = 4 <br>
 Output: 4
